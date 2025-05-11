@@ -1,0 +1,35 @@
+{
+  "name": "brilliance-auto-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for interacting with the Brilliance Global platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brilliance",
+    "bot",
+    "automation",
+    "airdrop",
+    "crypto"
+  ],
+  "author": "vikitoshi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "https-proxy-agent": "^7.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikitoshi/Brilliance-Auto-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vikitoshi/Brilliance-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/vikitoshi/Brilliance-Auto-Bot#readme"
+}
